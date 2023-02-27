@@ -1,4 +1,4 @@
-import { styled } from "@/styles";
+import { styled } from '@/styles'
 
 export const SuccessContainer = styled('main', {
   display: 'flex',
@@ -9,18 +9,18 @@ export const SuccessContainer = styled('main', {
   height: '656px',
 
   h1: {
-    fontSize: "$2xl",
+    fontSize: '$2xl',
     color: '$gray100',
     marginBottom: '4rem',
   },
 
   p: {
-    fontSize: "$xl",
-    color: "$gray300",
+    fontSize: '$xl',
+    color: '$gray300',
     maxWidth: '560px',
     textAlign: 'center',
     marginTop: '2rem',
-    lineHeight: '1.4'
+    lineHeight: '1.4',
   },
 
   a: {
